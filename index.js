@@ -21,3 +21,10 @@ function sayHiToGrandma(string){
     return "YES INDEED!"
   }
 }
+
+function sayHiToGrandma(string){
+  var stringLoveYour = "I love you, Grandma.";
+  if(stringLoveYour === string){
+    return "I love you, too."
+  }
+}
