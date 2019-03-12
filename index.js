@@ -12,19 +12,19 @@ function logShout(string){
 function sayHiToGrandma(string){
   var stringLowerCase = string.toLowerCase();
   if(stringLowerCase === string){
-    return "I can't hear you!"
+    return "I can't hear you!";
   }
 }
 function sayHiToGrandma(string){
   var stringUpperCase = string.toUpperCase();
   if(stringUpperCase === string){
-    return "YES INDEED!"
+    return "YES INDEED!";
   }
 }
 
 function sayHiToGrandma(string){
   var stringLoveYour = "I love you, Grandma.";
   if(stringLoveYour === string){
-    return "I love you, too."
+    return "I love you, too.";
   }
 }
