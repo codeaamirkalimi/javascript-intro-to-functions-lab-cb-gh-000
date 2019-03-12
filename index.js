@@ -9,3 +9,15 @@ function whisper(string){
 function logShout(string){
   console.log(string);
 }
+function sayHiToGrandma(string){
+  var stringLowerCase = string.toLowerCase();
+  if(stringLowerCase === string){
+    return "I can't hear you!"
+  }
+}
+function sayHiToGrandma(string){
+  var stringUpperCase = string.toUpperCase();
+  if(stringUpperCase === string){
+    return "YES INDEED!"
+  }
+}
